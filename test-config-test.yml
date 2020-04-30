@@ -1,3 +1,4 @@
 spring:
+  profiles: test
   application:
-    name: test-cloud-test1
+    name: test-cloud-test-2.0
