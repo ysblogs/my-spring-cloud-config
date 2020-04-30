@@ -1,4 +1,7 @@
+server:
+  port: 8201
+
 spring:
   profiles: dev
   application:
-    name: test-cloud-test
+    name: test-cloud-dev-2.0
