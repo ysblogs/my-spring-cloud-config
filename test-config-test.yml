@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: test-cloud-test1
+demo:
+  hello: hello,test
