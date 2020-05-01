@@ -1,4 +1,4 @@
 demo:
   hello: Hello ,test client to server!
 demo2:
-  hello: Hello World 你好 修改是否成功！
+  hello: Hello World 你好 修改是否成功，实现自动刷新！
