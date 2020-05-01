@@ -1,4 +1,4 @@
 demo:
   hello: Hello ,test client to server!
 demo2:
-  hello: Hello World 你好 修改是否成功，使用Postman的POST请求手动实现自动刷新！
+  hello: Hello World 使用github的webhook，只要提交代码就自动调用客户端来更新！
